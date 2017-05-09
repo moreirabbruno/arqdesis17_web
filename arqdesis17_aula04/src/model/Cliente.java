@@ -15,7 +15,7 @@ public class Cliente {
 	private ClienteDAO dao;
 
 	
-	
+	// teste
 	
 	public Cliente(){
 		dao = new ClienteDAO();
